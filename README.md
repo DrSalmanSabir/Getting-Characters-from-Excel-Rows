@@ -1,4 +1,4 @@
-# Getting-Characters-from-Excel-Rows
+# Getting-Characters-from-Excel-Rows using LEFT, RIGH Functions
 Getting Characters from Excel Rows
 
 = LEFT(text, num_chars)
